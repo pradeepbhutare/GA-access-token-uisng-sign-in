@@ -3,8 +3,7 @@
 Setting up authentication.
 
 1. Go to the APIs & Services page in the GCP Console using below link.
-https://cloud.google.com/console/google/maps-apis/overview
-
+    https://console.developers.google.com/apis
 2. Click the project drop-down and select or create the project for which you want to add an API key.
 3. Click the menu button  and select **APIs & Services > Credentials**.
 4. On the Credentials page, click Create **credentials > OAuth client ID**.
